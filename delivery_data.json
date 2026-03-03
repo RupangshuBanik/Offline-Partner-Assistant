@@ -1,0 +1,3202 @@
+[
+    {
+        "text": "call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Parcel cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Yaar payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "delivered. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Sir parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Order uthha liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "de diya. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "delivered. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Bhaiya rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Bhaiya payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Baarish ho gya hai",
+        "intent": "report_delay"
+    },
+    {
+        "text": "address dikhao please, Khana delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Customer ka phone kat diya",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Traffic bahut hai, 5 mins extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Map not working hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Next order de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Wrong order received, Bhaiya kya karu?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Hello call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Item de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Delay reporting: Police checking",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Sir Parcel wapas kar do",
+        "intent": "order_issue"
+    },
+    {
+        "text": "address send karo please, Parcel delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Customer ka phone network issue",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Item delivery location batao",
+        "intent": "get_address"
+    },
+    {
+        "text": "pata galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Hello rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Customer ka phone busy",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Order de diya ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Next order delivery location bhejo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Customer ko call uthhao karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Wrong order received, Bhaiya kya karu?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Sir Next order wapas kar do",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Khana cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Hello Item ka jagah batao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Yaar rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Madam parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Customer ko call uthhao karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Bhai parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Hello payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Hello payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Late honga, bike puncture",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Bhaiya Puncture ki wajah se late honga",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Next order de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Kahan jaana hai? jagah share kijiye",
+        "intent": "get_address"
+    },
+    {
+        "text": "Late honga, bike puncture",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Item de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Yaar customer call uthhao nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Dada rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Customer ka phone switch off",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Delay reporting: Traffic",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Customer ko pick karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Next order de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Khana ka pata bhejo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Late honga, bike puncture",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Order uthha liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Order uthha liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Call network issue, customer se baat bhejo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Dada Traffic ki wajah se late honga",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Sir Order ka location bhejo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Sir payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Wrong order received, kya karu?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "location galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Traffic bahut hai, thoda time extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Madam parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Yaar payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Delay reporting: Police checking",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Bhai customer receive nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Kahan jaana hai? jagah bhejo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Call kat diya, customer se baat send karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Delay reporting: Police checking",
+        "intent": "report_delay"
+    },
+    {
+        "text": "paucha diya. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "de diya. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Bhaiya rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Bhaiya rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Kahan jaana hai? jagah send karo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Customer ko pick karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Wrong order received, Bhai kya karu?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "address dikhao please, Next order delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Bhaiya call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Sir call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Item missing hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Dada parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Dada delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "ghar ka number batao please, Order delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Dada accident ki wajah se late honga",
+        "intent": "report_delay"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Bhaiya parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Item de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Bhaiya customer call uthhao nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Sir Next order wapas kar do",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Order paucha diya ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Bhaiya delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Yaar parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Khana cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Bhaiya maal ka location bhejo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Map stuck hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "jagah bhejo please, Next order delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Item wrong hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Customer ka phone busy",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Map stuck hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Parcel cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Order uthha liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Parcel cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Map not working hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Delay reporting: accident",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Order delivered ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Yaar maal ka location share kijiye",
+        "intent": "get_address"
+    },
+    {
+        "text": "Bhai call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "maal de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Hello call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Sir Item ka pata share kijiye",
+        "intent": "get_address"
+    },
+    {
+        "text": "Sir call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Yaar call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Delay reporting: Police checking",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Item thanda hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Dada Puncture ki wajah se late honga",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Kahan jaana hai? location dikhao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Order cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Wrong order received, Bhai kya karu?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Kahan jaana hai? location batao",
+        "intent": "get_address"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Call switch off, customer se baat share kijiye",
+        "intent": "call_customer"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Item wrong hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Next order delivery location send karo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Traffic bahut hai, thoda time extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "pata galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Sir maal radd kar do",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Item thanda hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Item kharab hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Khana de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "delivered. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "location batao please, Parcel delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Delay reporting: Baarish",
+        "intent": "report_delay"
+    },
+    {
+        "text": "location send karo please, maal delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Customer ko receive karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Customer ko call uthhao karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Hello customer pick nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "maal de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Delay reporting: Traffic",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Map galat hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "maal delivery location share kijiye",
+        "intent": "get_address"
+    },
+    {
+        "text": "Order de diya ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Customer ko call uthhao karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Call busy, customer se baat send karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Delay reporting: accident",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Call switch off, customer se baat karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "paucha diya. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Yaar rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Wrong order received, Hello kya karu?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Delay reporting: Traffic",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Hello parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Yaar rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Traffic bahut hai, 10 min extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Bhai delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Customer ka phone not reachable",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Call not reachable, customer se baat send karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Sir Baarish ki wajah se late honga",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Dada Item ka location dikhao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Map not working hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Bhaiya customer pick nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Delay reporting: Police checking",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Next order delivery location bhejo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Yaar payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Baarish ho gya hai",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Item kharab hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Item delivery location send karo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Sir maal wapas kar do",
+        "intent": "order_issue"
+    },
+    {
+        "text": "deliver. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Call kat diya, customer se baat bhejo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Hello rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Sir Parcel wapas kar do",
+        "intent": "order_issue"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Order le liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Puncture ho gya hai",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Item leaked hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "pata galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "address galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Call network issue, customer se baat dikhao",
+        "intent": "call_customer"
+    },
+    {
+        "text": "call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "location dikhao please, Parcel delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Sir payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Call kat diya, customer se baat dikhao",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Yaar customer call uthhao nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Customer ko call uthhao karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Customer ko call uthhao karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Madam call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Kahan jaana hai? jagah bhejo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Kahan jaana hai? address dikhao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Dada Parcel ka ghar ka number bhejo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Sir Parcel wapas kar do",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Order de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Order delivered ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Delay reporting: Baarish",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Bhaiya customer receive nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Police checking ho gya hai",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Bhaiya customer call uthhao nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Hello rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Customer ka phone switch off",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Customer ka phone network issue",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Delay reporting: Puncture",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Delay reporting: Traffic",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Madam parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Yaar call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Customer ko pick karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Delay reporting: Traffic",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Kahan jaana hai? pata batao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Call switch off, customer se baat bhejo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Map not working hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Bhai rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Bhaiya Item ka address send karo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Map not working hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Order uthha liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Order pick kar liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Order le liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Customer ko receive karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Wrong order received, Yaar kya karu?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Next order cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Delay reporting: Police checking",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Customer ka phone not reachable",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Map not working hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Item thanda hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "customer call uthhao nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Call network issue, customer se baat bhejo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Yaar call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Kahan jaana hai? jagah dikhao",
+        "intent": "get_address"
+    },
+    {
+        "text": "jagah batao please, Next order delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Bhai payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Khana delivery location bhejo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Bhaiya customer receive nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "ghar ka number send karo please, Item delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Customer ko receive karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Order delivered ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Hello rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Hello rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Customer ko receive karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Sir rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Madam Police checking ki wajah se late honga",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Customer ka phone network issue",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Map stuck hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Customer ko call uthhao karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "jagah galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Khana de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Bhai rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "location galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Traffic ki wajah se late honga",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Kahan jaana hai? location share kijiye",
+        "intent": "get_address"
+    },
+    {
+        "text": "jagah galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Bhaiya call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Item missing hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Customer ka phone busy",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Madam rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Hello delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Order uthha liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "maal delivery location send karo",
+        "intent": "get_address"
+    },
+    {
+        "text": "deliver. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Delay reporting: Puncture",
+        "intent": "report_delay"
+    },
+    {
+        "text": "ghar ka number galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Late honga, bike breakdown",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Bhaiya call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Dada rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Sir Police checking ki wajah se late honga",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Dada parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "maal delivery location send karo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Bhai parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "de diya. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Delay reporting: Puncture",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Call kat diya, customer se baat dikhao",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Customer ka phone busy",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Yaar Khana ka location share kijiye",
+        "intent": "get_address"
+    },
+    {
+        "text": "Item missing hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Order de diya ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Customer ko receive karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Bhaiya delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Dada customer pick nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Next order delivery location share kijiye",
+        "intent": "get_address"
+    },
+    {
+        "text": "jagah galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Yaar payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "location dikhao please, maal delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Order uthha liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Bhai payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Item delivery location dikhao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Hello payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Map stuck hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "address galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Madam Next order ka address share kijiye",
+        "intent": "get_address"
+    },
+    {
+        "text": "Order de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Yaar rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Sir delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Bhaiya rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "maal delivery location send karo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Parcel cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Madam Baarish ki wajah se late honga",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Madam parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Next order cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Hello Order ka address batao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Item cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "location galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Khana cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Bhaiya customer receive nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Call switch off, customer se baat dikhao",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Order delivery location send karo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Khana de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Yaar customer receive nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Parcel cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Police checking ho gya hai",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Dada delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Kahan jaana hai? pata dikhao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Madam call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Hello delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Traffic bahut hai, 5 mins extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "ghar ka number dikhao please, Next order delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Next order de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Dada payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Order uthha liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Parcel delivery location bhejo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Bhaiya Item ka ghar ka number dikhao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Delay reporting: Baarish",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Late honga, bike kharab",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Khana de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Yaar delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Item kharab hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Order pick kar liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "deliver. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Bhaiya parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "location galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Bhai customer call uthhao nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Order uthha liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "address send karo please, maal delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Order de diya ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "location galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Hello parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Hello customer pick nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Item thanda hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Late honga, bike kharab",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Order uthha liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Order le liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Call not reachable, customer se baat send karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Madam customer pick nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Order pick kar liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Customer ka phone network issue",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Late honga, bike kharab",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Sir parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Item de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Kahan jaana hai? location bhejo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Customer ko call uthhao karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Customer ka phone network issue",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Parcel ka ghar ka number dikhao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Item de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Map stuck hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Customer ka phone switch off",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Madam call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Traffic bahut hai, 10 min extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Traffic bahut hai, 5 mins extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Traffic bahut hai, 5 mins extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Delay reporting: Traffic",
+        "intent": "report_delay"
+    },
+    {
+        "text": "accident ho gya hai",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Order pick kar liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Bhai call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Khana cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Hello Police checking ki wajah se late honga",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Dada call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "customer call uthhao nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Customer ka phone switch off",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Customer ko call uthhao karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Baarish ho gya hai",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Kahan jaana hai? pata send karo",
+        "intent": "get_address"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "maal de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "location galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Customer ko pick karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Bhaiya delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Kahan jaana hai? jagah batao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Item missing hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Order paucha diya ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "paucha diya. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Order le liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Sir customer call uthhao nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Call switch off, customer se baat batao",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Wrong order received, Yaar kya karu?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Sir maal radd kar do",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Yaar rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "maal delivery location bhejo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Hello Parcel ka ghar ka number send karo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Traffic bahut hai, 5 mins extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Item cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Yaar payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Item leaked hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Wrong order received, Bhai kya karu?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Delay reporting: Puncture",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Kahan jaana hai? location share kijiye",
+        "intent": "get_address"
+    },
+    {
+        "text": "address batao please, Next order delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Order de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "de diya. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "accident ho gya hai",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Madam rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Call network issue, customer se baat bhejo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Sir call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Yaar call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Police checking ho gya hai",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Bhaiya parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Bhaiya delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Wrong order received, Bhaiya kya karu?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Order deliver ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Sir Next order ka ghar ka number share kijiye",
+        "intent": "get_address"
+    },
+    {
+        "text": "Hello maal ka location bhejo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Traffic ho gya hai",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Next order cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Customer ka phone busy",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Delay reporting: Traffic",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Kahan jaana hai? jagah share kijiye",
+        "intent": "get_address"
+    },
+    {
+        "text": "Call busy, customer se baat share kijiye",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Item leaked hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Late honga, bike kharab",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Traffic bahut hai, 5 mins extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Order delivered ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Yaar customer receive nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Call kat diya, customer se baat send karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Sir delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Customer ko call uthhao karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Wrong order received, Madam kya karu?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Bhaiya parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Sir Order ka location share kijiye",
+        "intent": "get_address"
+    },
+    {
+        "text": "Order delivery location bhejo",
+        "intent": "get_address"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Delay reporting: Puncture",
+        "intent": "report_delay"
+    },
+    {
+        "text": "paucha diya. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "address send karo please, Item delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Khana ka ghar ka number share kijiye",
+        "intent": "get_address"
+    },
+    {
+        "text": "Khana cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "maal cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "paucha diya. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "de diya. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Yaar payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "deliver. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Traffic bahut hai, thoda time extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "location send karo please, maal delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Hello delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Bhai parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Yaar call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Order de diya ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Item thanda hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Late honga, bike breakdown",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Customer ka phone kat diya",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Sir Order wapas kar do",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Yaar rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Dada call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Next order delivery location batao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Order delivered ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "deliver. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Late honga, bike kharab",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Sir Order radd kar do",
+        "intent": "order_issue"
+    },
+    {
+        "text": "ghar ka number galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Madam call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Order le liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Dada Baarish ki wajah se late honga",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Wrong order received, Bhaiya kya karu?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Kahan jaana hai? location batao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Madam delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Sir Khana radd kar do",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Bhai customer call uthhao nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "jagah galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "deliver. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Madam maal ka ghar ka number bhejo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Order delivered ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Order de diya ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Kahan jaana hai? pata batao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Order de diya ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Call network issue, customer se baat batao",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Call switch off, customer se baat dikhao",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Delay reporting: accident",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Dada payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "deliver. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Map slow hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Parcel de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Puncture ki wajah se late honga",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Order deliver ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Customer ka phone busy",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Late honga, bike puncture",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Dada payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Sir parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Bhaiya delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "location bhejo please, Parcel delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Dada delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Customer ko receive karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Madam parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Bhai call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "maal de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Traffic bahut hai, thoda time extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Khana delivery location send karo",
+        "intent": "get_address"
+    },
+    {
+        "text": "pata dikhao please, Khana delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Madam parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Wrong order received, Yaar kya karu?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Sir maal radd kar do",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Order pick kar liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "de diya. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Traffic bahut hai, thoda time extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "paucha diya. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "deliver. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Order delivery location dikhao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Sir Next order wapas kar do",
+        "intent": "order_issue"
+    },
+    {
+        "text": "pata galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "maal de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Baarish ki wajah se late honga",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Item de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Item de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Dada customer call uthhao nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Dada Item ka address batao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Order de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Map not working hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Item kharab hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "de diya. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Customer ka phone not reachable",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Customer ka phone kat diya",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Delay reporting: Baarish",
+        "intent": "report_delay"
+    },
+    {
+        "text": "maal ka pata dikhao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Bhaiya call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Late honga, bike puncture",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Dada call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Customer ko call uthhao karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Late honga, bike puncture",
+        "intent": "report_delay"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "address bhejo please, maal delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Bhai Khana ka ghar ka number send karo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Late honga, bike puncture",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Customer ko receive karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Dada payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Dada customer pick nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Wrong order received, Madam kya karu?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Call switch off, customer se baat batao",
+        "intent": "call_customer"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Bhaiya rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Order cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Traffic bahut hai, thoda time extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "maal cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Sir Khana wapas kar do",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Order pick kar liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Sir Police checking ki wajah se late honga",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Bhaiya rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Item leaked hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Parcel cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Customer ko receive karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Late honga, bike kharab",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "jagah send karo please, Next order delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "de diya. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Order pick kar liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "ghar ka number send karo please, Next order delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Order pick kar liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Map slow hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "deliver. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Customer ka phone busy",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Item kharab hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Dada payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Bhai rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Bhaiya customer receive nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "jagah galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Item delivery location send karo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Order de diya ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Order delivery location dikhao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Customer ka phone switch off",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Wrong order received, Yaar kya karu?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "de diya. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Bhaiya accident ki wajah se late honga",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Call not reachable, customer se baat dikhao",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Parcel delivery location bhejo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Puncture ho gya hai",
+        "intent": "report_delay"
+    },
+    {
+        "text": "ghar ka number share kijiye please, Order delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Madam Traffic ki wajah se late honga",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Traffic bahut hai, thoda time extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Kahan jaana hai? location dikhao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Yaar payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Puncture ho gya hai",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Sir parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Kahan jaana hai? location share kijiye",
+        "intent": "get_address"
+    },
+    {
+        "text": "Kahan jaana hai? address send karo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Ghar band hai, koi nahi mil raha",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Traffic bahut hai, thoda time extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Order pick kar liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Order de diya ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Kahan jaana hai? ghar ka number bhejo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Delay reporting: accident",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Traffic bahut hai, 10 min extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Puncture ho gya hai",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Traffic bahut hai, 10 min extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "deliver. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Map not working hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Order uthha liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "jagah dikhao please, Item delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Delay reporting: Traffic",
+        "intent": "report_delay"
+    },
+    {
+        "text": "location dikhao please, Next order delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Traffic bahut hai, thoda time extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Bhai Parcel ka jagah batao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Item delivery location send karo",
+        "intent": "get_address"
+    },
+    {
+        "text": "Dada payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Item missing hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Madam rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Next order delivery location batao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Item kharab hai, return lena hai kya?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "jagah galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Bhaiya delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Order le liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Sir Order cancel kar do",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Kahan jaana hai? address dikhao",
+        "intent": "get_address"
+    },
+    {
+        "text": "Sir maal wapas kar do",
+        "intent": "order_issue"
+    },
+    {
+        "text": "accident ho gya hai",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Yaar call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Late honga, bike kharab",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Customer ka phone kat diya",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Customer ka phone switch off",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Sir rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Google maps stuck ho gaya",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "ghar ka number send karo please, Next order delivery hai",
+        "intent": "get_address"
+    },
+    {
+        "text": "Delay reporting: Police checking",
+        "intent": "report_delay"
+    },
+    {
+        "text": "deliver. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Order deliver ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "3 baar call kiya, unreachable aa raha hai",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Item de diya hai customer ko",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "ghar ka number galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Traffic bahut hai, thoda time extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Order cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Yaar Police checking ki wajah se late honga",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Order deliver ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Parcel cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Traffic bahut hai, 10 min extra lagega",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Customer ko pick karo",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Dada Order ka address share kijiye",
+        "intent": "get_address"
+    },
+    {
+        "text": "Map galat hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Bhaiya Next order ka jagah share kijiye",
+        "intent": "get_address"
+    },
+    {
+        "text": "paucha diya. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Order deliver ho gaya",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Dada payment nahi ho raha, order issue hai",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Yaar Order ka jagah share kijiye",
+        "intent": "get_address"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Madam rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Police checking ho gya hai",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Puncture ho gya hai",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Late honga, bike puncture",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Hello parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "deliver. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Late honga, bike breakdown",
+        "intent": "report_delay"
+    },
+    {
+        "text": "Customer ka phone kat diya",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Wrong order received, kya karu?",
+        "intent": "order_issue"
+    },
+    {
+        "text": "deliver. Photo uploaded.",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Restrunt se nikal gaya hoon",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Madam parcel pick ho gaya",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Bhai call lagao customer ko",
+        "intent": "call_customer"
+    },
+    {
+        "text": "maal cancel karna hai, customer ne mana kiya",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Sir Khana cancel kar do",
+        "intent": "order_issue"
+    },
+    {
+        "text": "Next order delivery location share kijiye",
+        "intent": "get_address"
+    },
+    {
+        "text": "Waiting at gate, customer not responding",
+        "intent": "customer_unavailable"
+    },
+    {
+        "text": "Order uthha liya hai",
+        "intent": "mark_picked_up"
+    },
+    {
+        "text": "Hello customer receive nahi kar raha",
+        "intent": "call_customer"
+    },
+    {
+        "text": "Madam rasta nahi mil raha",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "address galat dikha raha hai",
+        "intent": "navigation_help"
+    },
+    {
+        "text": "Madam delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Bhaiya delivery done, mark kar do",
+        "intent": "mark_delivered"
+    },
+    {
+        "text": "Order received from shop",
+        "intent": "mark_picked_up"
+    }
+]
