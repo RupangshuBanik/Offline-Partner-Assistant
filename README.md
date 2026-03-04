@@ -12,7 +12,7 @@ Most Small Language Models (SLMs) struggle with Hinglish code-switching. I used 
 ## Technical Specifications
 - **Architecture:** Bi-GRU + Global Max Pooling
 - **Parameters:** ~650k
-- **Model Size:** 650KB (.pth) / 1.5MB (TorchScript)
+- **Model Size:** 650KB (.pth) / 630KB (ONNX)
 - **Latency:** ~1ms on standard CPU
 - **Vocabulary:** Custom Word level Tokenizer (No external dependencies used)
 
